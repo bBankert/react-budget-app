@@ -1,0 +1,22 @@
+.expense{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.expense-delete{
+    cursor: pointer;
+}
+
+.expense-amount{
+    margin-left: auto;
+    background-color: #007bff;
+    color: white;
+    padding: 0 .6em;
+    border-radius: 10rem;
+    margin-right: 15px;
+}
+

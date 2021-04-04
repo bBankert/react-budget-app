@@ -1,0 +1,10 @@
+.save-button{
+    width: 10%;
+    margin-top: 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
